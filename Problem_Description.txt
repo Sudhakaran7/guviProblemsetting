@@ -1,0 +1,13 @@
+PROBLEM DESCRIPTION:
+  Given two array, convert the two arrays as graph and print the edges of the graph.
+
+SAMPLE INPUT:
+a b c d
+e f g h
+
+SAMPLE OUTPUT:
+[{'a', 'e'}, {'b', 'f'}, {'c', 'g'}, {'d', 'h'}]
+
+SAMPLE OUTPUT EXPLANATION:
+Given two arrays, convert the two arrays to a graph using Dictionary, the first array is keys of DICT and second array is values assigned 
+to the keys in DICT and then we have to convert the given DICT into a Graph. Now print the edges of the graph assigned to each node.

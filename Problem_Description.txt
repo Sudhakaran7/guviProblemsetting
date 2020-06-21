@@ -11,3 +11,4 @@ SAMPLE OUTPUT:
 SAMPLE OUTPUT EXPLANATION:
 Given two arrays, convert the two arrays to a graph using Dictionary, the first array is keys of DICT and second array is values assigned 
 to the keys in DICT and then we have to convert the given DICT into a Graph. Now print the edges of the graph assigned to each node.
+HINT: Assign Key to Values for generating edges.
